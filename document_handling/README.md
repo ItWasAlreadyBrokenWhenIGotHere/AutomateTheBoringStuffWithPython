@@ -1,4 +1,4 @@
-# WebScraping
+# Document Handling
 
 Example scripts of document handling activities
 
@@ -12,7 +12,6 @@ pip install openpyxl
 pip install PyPDF2
 pip install python-docx
 pip install docx
-
 ```
 
 openpyxl is used to interact with Excel workbooks

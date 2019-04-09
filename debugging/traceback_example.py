@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
-"""
+Module Docstring for traceback example
 
 __author__ = "Petri Weckström"
 __version__ = "0.1.0"

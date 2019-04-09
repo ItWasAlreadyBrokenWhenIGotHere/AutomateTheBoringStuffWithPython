@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring for example how to scrape text from Word document
 """
 
 __author__ = "Petri Weckström"

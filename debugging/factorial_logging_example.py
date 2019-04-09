@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring factorial logging example
 """
 
 __author__ = "Petri Weckström"

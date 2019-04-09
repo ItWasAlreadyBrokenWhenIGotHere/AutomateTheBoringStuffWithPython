@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring for basic regex
 """
 
 __author__ = "Petri Weckström"

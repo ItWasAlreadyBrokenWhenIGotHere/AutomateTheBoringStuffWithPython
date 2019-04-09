@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring for example how to capture screenshots from Python
 """
 
 __author__ = "Petri Weckström"

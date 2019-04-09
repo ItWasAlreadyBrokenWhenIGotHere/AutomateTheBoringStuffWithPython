@@ -1,4 +1,4 @@
-# File handling with Python
+# Mouse and Keyboard handling with Python
 
 Example scripts of GUI automation in Python
 

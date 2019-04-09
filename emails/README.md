@@ -1,6 +1,6 @@
-# File handling with Python
+# Email handling with Python
 
-Example scripts of different kind of file handling operations in Python
+Example scripts of email sending and reading activities in Python
 
 ---
 

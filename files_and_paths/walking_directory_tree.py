@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring for example how to move in the file ssystem
 """
 
 __author__ = "Petri Weckström"

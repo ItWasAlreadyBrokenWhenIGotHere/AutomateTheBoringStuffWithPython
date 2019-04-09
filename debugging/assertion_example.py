@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module assertion example
+Module for assertion examples
 """
 
 __author__ = "Petri Weckström"

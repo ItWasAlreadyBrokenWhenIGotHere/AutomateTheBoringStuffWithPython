@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module Docstring
+Module Docstring for example how to download a file from Python
 """
 
 __author__ = "Petri Weckström"
